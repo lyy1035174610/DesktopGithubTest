@@ -1,7 +1,10 @@
 hello,my friend
 
+<<<<<<< HEAD
 good morning heihei
 
 你好
 
 早上好 
+=======
+>>>>>>> parent of 0330e86... good
